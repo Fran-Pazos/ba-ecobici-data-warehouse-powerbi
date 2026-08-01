@@ -95,7 +95,7 @@ The dashboard allows the analysis and visualization of Ecobici usage data from d
 
 ### Dashboard Overview
 
-![Power BI Dashboard 1](PowerBI_Dashboard_1.png)
+![Power BI Dashboard 1](PowerBI_Dashboard_1.1.png)
 
 ### User Analysis
 
