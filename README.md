@@ -127,17 +127,3 @@ ba-ecobici-data-warehouse-powerbi/
 ├── powerbi-trips-analysis.png
 │
 └── README.md
-
-## Power BI Dashboard
-
-### Dashboard Overview
-
-![Power BI Dashboard 1](PowerBI_Dashboard_1.png)
-
-### User Analysis
-
-![Power BI Dashboard 2](PowerBI_Dashboard_2.png)
-
-### Trip Analysis
-
-![Power BI Dashboard 3](PowerBI_Dashboard_3.png)
