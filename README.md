@@ -91,23 +91,53 @@ The dashboard allows the analysis and visualization of Ecobici usage data from d
 - Dimensional Modeling
 - Data Visualization
 
+## Power BI Dashboard
+
+### Dashboard Overview
+
+![Power BI Dashboard 1](PowerBI_Dashboard_1.png)
+
+### User Analysis
+
+![Power BI Dashboard 2](PowerBI_Dashboard_2.png)
+
+### Trip Analysis
+
+![Power BI Dashboard 3](PowerBI_Dashboard_3.png)
+
 ## Project Structure
 
 ```text
 ba-ecobici-data-warehouse-powerbi/
 │
 ├── BAEcobicisAnalysis.ipynb
+├── Trips.csv
+├── usuarios_ecobici_2026.csv
+├── nuevas-estaciones-bicicletas-publicas.csv
 │
-├── data/
-│   ├── Trips.csv
-│   ├── usuarios_ecobici_2026.csv
-│   └── nuevas-estaciones-bicicletas-publicas.csv
-│
-├── data_warehouse/
-│   ├── DW_Fact_Viajes.csv
-│   ├── DW_Dim_Usuarios.csv
-│   ├── DW_Dim_Tiempo.csv
-│   └── DW_Dim_Estaciones.csv
+├── DW_Fact_Viajes.csv
+├── DW_Dim_Usuarios.csv
+├── DW_Dim_Tiempo.csv
+├── DW_Dim_Estaciones.csv
 │
 ├── PowerBIEcobicis.pbix
+│
+├── powerbi-dashboard-overview.png
+├── powerbi-user-analysis.png
+├── powerbi-trips-analysis.png
+│
 └── README.md
+
+## Power BI Dashboard
+
+### Dashboard Overview
+
+![Power BI Dashboard 1](PowerBI_Dashboard_1.png)
+
+### User Analysis
+
+![Power BI Dashboard 2](PowerBI_Dashboard_2.png)
+
+### Trip Analysis
+
+![Power BI Dashboard 3](PowerBI_Dashboard_3.png)
